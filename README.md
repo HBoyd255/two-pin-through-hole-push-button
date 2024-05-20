@@ -13,9 +13,6 @@ library search path. This can be done by going to
 `Preferences -> Configure Paths` and adding the path with the name
 `Two_Pin_Through_Hole_Push_Button`.
 
-Then you just need to add `Two_Pin_Through_Hole_Push_Button.kicad_sym` to your symbol
-libraries table with `Preferences -> Manage Symbol Libraries`.
-
 ## Dimensions
 
 The dimensions are based on this image, that I found on

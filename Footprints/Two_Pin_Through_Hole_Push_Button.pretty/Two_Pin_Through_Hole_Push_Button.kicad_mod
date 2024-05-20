@@ -335,4 +335,15 @@
 		(remove_unused_layers no)
 		(uuid "475460f7-0dcb-4462-83a8-2444ca0c34b7")
 	)
+	(model "${Two_Pin_Through_Hole_Push_Button}/3DModels/Two_Pin_Through_Hole_Push_Button.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
